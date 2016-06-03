@@ -1,0 +1,3 @@
+# Ignore mac related files
+.DS_Store
+.idea/
