@@ -1,8 +1,9 @@
 # What you can achieve with Stampede
 Stampede can stamp your PDF evidences in order to file them. Choose a PDF file as input and three outputs will be generated:
-    1. A series of image files: one stamped TIFF image for each and every page of the PDF
-    2. The stamped PDF (named after the first page' stamp)
-    3. A raw text file containing the PDF text (named after the first page' stamp)
+
+1. A series of image files: one stamped TIFF image for each and every page of the PDF
+2. The stamped PDF (named after the first page' stamp)
+3. A raw text file containing the PDF text (named after the first page' stamp)
   
 # How you can use, redistribute and modify Stampede:
 License is GPL License v3: it is intended to remain a free open-source software to help both defense and prosecution teams in filing evidences during trial. Moreover, texts extracted from PDF files uses pdftotext from xPDF. xPDF cannot only be redistributed with GPL License.
